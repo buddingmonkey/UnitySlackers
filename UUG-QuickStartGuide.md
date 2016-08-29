@@ -109,18 +109,18 @@ A UUG doesn’t have to meet monthly. One great meetup a quarter is often better
 
 Publish your yearly calendar of events if you can. Even noting the next 1 or 2 meeting dates helps. 
 
-### Make it a team effort 
+## Make it a team effort 
 Organizing a UUG takes some effort, so assembling some co-organizers can greatly increase your chance of success. Having co-organizers also means that you’ll have more ideas for speakers and content, and new channels for promotion. During UUG's, always ask your members if people are interested in volunteering or co-organizing. The more hands on deck, the better. 
 
 You can also ask if members are part of other meetup groups that might like to partner with your UUG. 
 
-### Over-communicate 
+## Over-communicate 
 Coordinating with speakers, hosts, and sponsors requires follow up. A great organizer always sends detailed reminder emails. 
 
-### Plan ahead 
+## Plan ahead 
 When you are running your event, have the next meetup date scheduled so you can announce in advance and solicit speakers.
 
-### Growing your membership
+## Growing your membership
 <fill in>
 
 # Email Templates
