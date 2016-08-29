@@ -120,9 +120,6 @@ Coordinating with speakers, hosts, and sponsors requires follow up. A great orga
 ## Plan ahead 
 When you are running your event, have the next meetup date scheduled so you can announce in advance and solicit speakers.
 
-## Growing your membership
-<fill in>
-
 # Email Templates
 
 ### Request to speak
