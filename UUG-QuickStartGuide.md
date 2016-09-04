@@ -120,6 +120,10 @@ Coordinating with speakers, hosts, and sponsors requires follow up. A great orga
 ## Plan ahead 
 When you are running your event, have the next meetup date scheduled so you can announce in advance and solicit speakers.
 
+#Code of conduct
+
+It's important to have a base set of rules for attending your user group and contact information avaliable if anything bad was to happen. Here's a good example of a COC: https://github.com/rawrsoft/UnitySlackers/blob/master/CodeOfConduct.md
+
 # Email Templates
 
 ### Request to speak
@@ -212,3 +216,4 @@ Best regards,
 # Resources
 * Unity Blog post about starting a user group: https://blogs.unity3d.com/2014/12/11/building-a-user-group-in-your-area/
 * 
+
